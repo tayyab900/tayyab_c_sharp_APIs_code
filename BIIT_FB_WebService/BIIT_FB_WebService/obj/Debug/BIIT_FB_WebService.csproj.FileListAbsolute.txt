@@ -1,0 +1,48 @@
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.dll
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.pdb
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.dll
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.pdb
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommServer.dll
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommShared.dll
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommunication.dll
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\PDUConverter.dll
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommServer.xml
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommShared.xml
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommunication.xml
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\PDUConverter.xml
+C:\Users\Haris Jamil\Desktop\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.csprojResolveAssemblyReference.cache
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.dll
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.pdb
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommServer.dll
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommShared.dll
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommunication.dll
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\PDUConverter.dll
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommServer.xml
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommShared.xml
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommunication.xml
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\PDUConverter.xml
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.dll
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.pdb
+E:\Windows Backuo\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.csprojResolveAssemblyReference.cache
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.dll
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.pdb
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommServer.dll
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommShared.dll
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommunication.dll
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\PDUConverter.dll
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommServer.xml
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommShared.xml
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommunication.xml
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\bin\PDUConverter.xml
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.csprojResolveAssemblyReference.cache
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.dll
+D:\FYP Backup\VS Project Saves\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.pdb
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.dll
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.pdb
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommServer.xml
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommShared.xml
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommunication.xml
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\PDUConverter.xml
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.dll
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.pdb

@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.dll
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\BIIT_FB_WebService.pdb
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommServer.xml
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommShared.xml
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\GSMCommunication.xml
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\bin\PDUConverter.xml
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_Firm.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.dll
+C:\Users\HP\Desktop\BIIT_FB_WebService\BIIT_FB_WebService\obj\Debug\BIIT_FB_WebService.pdb
